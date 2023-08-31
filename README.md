@@ -17,4 +17,4 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julkaar9&layout=compact&hide=jupyter%20notebook&theme=radical&custom_title=Top%20Langs(public))](https://github.com/anuraghazra/github-readme-stats)
 
-![Stackoverflow reps](https://infoplus.vercel.app/api/stackoverflow?userid=8522463)
+[![Stackoverflow reps](https://infoplus.vercel.app/api/stackoverflow?userid=8522463)](https://github.com/julkaar9/infoplus)
