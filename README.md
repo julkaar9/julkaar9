@@ -10,11 +10,11 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+[![Stackoverflow reps](https://infoplus.vercel.app/api/stackoverflow?userid=8522463&style=for_the_badge&messagecolor=f48225)](https://github.com/julkaar9/infoplus)
+
 \
 [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8522463&theme=dark)](https://stackoverflow.com/users/8522463/julkar9?tab=topactivity)
 
 [![Julkar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julkaar9&count_private=true&theme=radical&show_icons=true&custom_title=My%20GitStats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julkaar9&layout=compact&hide=jupyter%20notebook&theme=radical&custom_title=Top%20Langs(public))](https://github.com/anuraghazra/github-readme-stats)
-
-[![Stackoverflow reps](https://infoplus.vercel.app/api/stackoverflow?userid=8522463)](https://github.com/julkaar9/infoplus)
