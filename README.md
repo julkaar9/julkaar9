@@ -1,4 +1,13 @@
 ## Hi, I am Julkar9
+[![Questfolio](https://img.shields.io/badge/-Questfolio-grey?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACE1BMVEUAAAC2pJKyoJiyoJmyoJmyoJmzoJmxoZixn5qxnZ21oZqzoZmyoJmyoJqzn5iqqo6zoJmyoJmxoZm%2Fn5%2ByoJmyoJito5mxoZexoJmxoZu1n5WyoZmyoJmyoJiyoJmzoJmyoJmzoZiyoJmyoJmyoJmyoJmyoJmyn5mxn5mqqpW0npayoZmyoJm2kpKyoJmyoJmzoZe1pJ2wn5m2np6yoJnf1dXJvLf%2F%2F%2F%2F%2F%2F%2F%2B%2Bsar%2F%2F%2F%2F%2F%2F%2F%2Bzn5mxoJqyoJqyoJmzoZrLv7rl39zx7u3UycXEtrDv7Or%2F%2F%2F%2FBs620o5zc09D%2B%2Fv78%2B%2FvFuLO%2Br6nx7ezi29nDta%2FGubP6%2Bfnt6Oe%2FsKu2pZ7Vy8fb08%2Fb0s%2FSyMTGubT8%2FPvTycXCtK7m4N79%2FPzp4%2BG5qKK9rqj6%2Bfj39fTd1tPt6ee0opu1pJ3z8O%2F49vW8rKbf19T18vHa0s%2FLv7vu6unRxsLa0c3DtbDIu7bUysbw7eu3pp%2F7%2BvrWzMnv6%2BnOwr61o5308fCzoZvPw7%2Fh2tfXzsvKvrnf2NXw7OvNwbzJvLe3p6D5%2BPe5qaPFt7LNwr3h2tj9%2Ff28raft6ei2pZ%2FOw7%2Fn4d%2FKvbns6Obo4%2BG%2FsKq2pJ7g2da3pqD18%2FLMwLzi29jNwb329PPm4N3TyMTBsq308vHZ0MzHubTd1dLp5OLIvLfj3Nn39vXUyse4qKG9raf39fXn4uD%2B%2Fv1unVQcAAAAP3RSTlMADlmbyur6mlgNJp31nCUJjPuKCNPHGTHjLhjQzIHzlvRXmevp%2BfiYVQwih8YH4uUb4y0VwTD72QEnVxPIl1ZowWTtAAAAAWJLR0Q3MLi4RwAAAAlwSFlzAAABAAAAAQABTdB3JwAAAAd0SU1FB%2BcKHw07KfOHOvUAAAI%2FSURBVDjLZVP3Q1NBDD6hA2QKVksVKdiKVXFv0dc6%2BIRWBBwVpcNRQVCEIogDHCju4qh74Matf6LJXV8X%2BSG55PveSy7JCZGUGTm5BqPJZDSY8%2FLFdJlZUKglpbCoOAsuKZ2lZYiprDwdL56twm7P9h07ExTLnBQ%2B16hiuxpAsjvBsFYkv1d4Y5OXcd8ePY3VpvDyedJt3gt4W1ob0wqZXyIJpdJp2wfsP0CHg23%2BQ%2B2Hm2WwUt5P1n%2BkA76AW9OCoTCkHD1G0QWcpIDx4ycQoeLcJ5GUzi6KV1H%2FuD%2BnutFzmuwZAnrPelqDff1AlAL2fJHDPxhA%2BByZQSpzyK2udB6dbKtFLunhC7jI3iVgSL9BAD42NcJA%2BjIiI1wIMHpFJ1xVBItYSPoarrMzBviTPbiBBjYO4SR9E0F2xoFbOn77DgbYLpKEbtxl5x5wXyc8QGxCETjFQ0jnUQyhBP4YaNdUCoPM55HeEyAuD1EvnnapoQsz6TieSe95B8KU5MVL6uMr9atakcd78hpvpDvoA96%2BmwTe60NdLFx2Mh7EPsgOfpzkMYQDeq12lxBFfPB78elz%2FMv41wgTpoZ1gpn3ySSv2JsYopf6jZ4%2BhTuX8EKUqX399r3%2Fx%2BjUzwltjFYHoV8cXKpWzpK58dpvWj78ofEvq1NLaVuexRhpIcZfbcVKfa0rrFkMLfoPsVWrUw9jzdpsRhOwLv1p1VXaMwnrsWFj5uu0VaVR7DWbNm%2BZ9r5d1bX1DqfTUb91mysV%2FQ9dTOk%2B87jPVwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0xMC0zMVQxMzo1OTo0MSswMDowMCLLNZ8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMTAtMzFUMTM6NTk6NDErMDA6MDBTlo0jAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm%2B48GgAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk%2FLzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg%3D%3D&labelColor=%20&color=%23555555)](https://questfolio.com/)
+[![Stackoverflow reps](https://infoplus.vercel.app/api/stackoverflow?userid=8522463&style=for_the_badge&messagecolor=f48225)](https://github.com/julkaar9/infoplus)
+
+\
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8522463&theme=dark)](https://stackoverflow.com/users/8522463/julkar9?tab=topactivity)
+
+[![Julkar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julkaar9&count_private=true&theme=radical&show_icons=true&custom_title=My%20GitStats)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -9,12 +18,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-[![Stackoverflow reps](https://infoplus.vercel.app/api/stackoverflow?userid=8522463&style=for_the_badge&messagecolor=f48225)](https://github.com/julkaar9/infoplus)
-
-\
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8522463&theme=dark)](https://stackoverflow.com/users/8522463/julkar9?tab=topactivity)
-
-[![Julkar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julkaar9&count_private=true&theme=radical&show_icons=true&custom_title=My%20GitStats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julkaar9&layout=compact&hide=jupyter%20notebook&theme=radical&custom_title=Top%20Langs(public))](https://github.com/anuraghazra/github-readme-stats)
